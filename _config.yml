@@ -2,8 +2,8 @@ title: My DevCat Studios Portfolio
 
 description: This is my portfolio showcasing my projects and skills.
 
-baseurl: "" # leave empty since this is your user page
+baseurl: ""
 
-url: "https://ml2204410.github.io" # replace YOURUSERNAME with your GitHub username
+url: "https://ml2204410.github.io"
 
-theme: jekyll-theme-minimal # replace “merlot” with your chosen theme from the list
+theme: jekyll-theme-minimal
