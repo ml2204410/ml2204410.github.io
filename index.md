@@ -1,4 +1,4 @@
-# Welcome to My Portfolio Hello! My name is Miguel Angel Lopez Tolentino.
+# Welcome to My Portfolio Hello! My name is ML.
 
 ## Projects
 
