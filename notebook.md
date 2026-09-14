@@ -1,27 +1,18 @@
 ## Table of Contents
-
+- [Blocks](#blocks)
+- [Concepts](#concepts)
+- [Vocabulary](#vocabulary)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
-
   - [Headings](#headings)
-
   - [Text Formatting](#text-formatting)
 
 
-## Table of Contents
+## Blocks
 
-- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+## Concepts
 
-  - [Headings](#headings)
+## Vocabulary
 
-  - [Text Formatting](#text-formatting)
-
------------------------------------------ (above this line)
-
- Add some space and then copy and paste all of the following to the end of your notebook to have the style guide and reference:
-
- 
-
------------------------------------------ (below this line) 
 
 ## Markdown Style Guide for Coding Notebooks
 
