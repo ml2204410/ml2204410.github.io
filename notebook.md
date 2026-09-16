@@ -26,6 +26,25 @@ If Then Block - A 'C' Block that runs the blocks inside, if the Boolean conditio
 
 Forever Block - A 'C' block that repeats any blocks contained inside forever. Programmers use this block to create a continuous loop of a sequence of blocks and commands.
 ## Concepts
+Sequence	Why the order of commands matters
+
+Parameters	How changing an input changes what a command does
+
+Loops / Iteration	How and why programs repeat instructions
+
+Sensors	How a robot gets information about its environment
+
+Booleans & Conditions	How TRUE/FALSE information controls a program
+
+Sense → Think → Act	How a robot senses information, makes a decision, and responds
+
+Comparisons	How < and > compare values and produce TRUE/FALSE
+
+Coordinates	How X and Y values describe the robot's location
+
+Conditionals	How programs make decisions using conditions
+
+Patterns	How recognizing repeated behavior can help create better algorithms
 
 ## Vocabulary
 
