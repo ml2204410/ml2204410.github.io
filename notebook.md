@@ -8,7 +8,15 @@
 
 
 ## Blocks
-
+Hat Block	- A block with a rounded top used to start a stack of blocks and attach blocks below to begin a project. Belongs at the top.
+Stack / Command Block	- A block with an indentation at the top left side and a bump out the bottom left side. These perform main commands and are shaped to attach above or below other stack blocks.
+C-Block - A block with a "C" shape that wraps around other stack blocks. It's used to loop a specific order of blocks or check if a condition is true or false
+Reporter / Oval Block	- A block shaped like a wide oval with rounded edges. Report values in the form of numbers and fits inside any blocks with oval inputs for other blocks.
+Boolean / Hexagonal Block - A block with pointed ends. It returns a condition as either true or false and fits inside any blocks with hexagonal (six-sided) inputs for other blocks.
+Repeat Block - A 'C' block that repeats the blocks contained inside for a set number of times. The repeat 'C' block can accept integers or numeric blocks.
+Wait Until Block - A command block that waits for a Boolean block to report true before moving to the next block. The Wait Until Boolean block can accept hexagonal (six-sided) shaped blocks.
+If Then Block - A 'C' Block that runs the blocks inside, if the Boolean condition is reported to be true. If the Boolean condition is reported as true, the blocks inside of if then will run.
+Forever Block - A 'C' block that repeats any blocks contained inside forever. Programmers use this block to create a continuous loop of a sequence of blocks and commands.
 ## Concepts
 
 ## Vocabulary
