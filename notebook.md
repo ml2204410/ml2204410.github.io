@@ -26,9 +26,9 @@ If Then Block - A 'C' Block that runs the blocks inside, if the Boolean conditio
 
 Forever Block - A 'C' block that repeats any blocks contained inside forever. Programmers use this block to create a continuous loop of a sequence of blocks and commands.
 ## Concepts
-Sequence	Why the order of commands matters
+Sequence - The sequence of the blocks matter because the robot within the program executes instructions from top to bottom as they cannot skip ahead or predict what comes next.
 
-Parameters	How changing an input changes what a command does
+Parameters - Parameters act as the specific values or settings that dictate how a command executes its action, allowing a single base command to produce different behaviors depending on what numbers or options you pass into it.
 
 Loops / Iteration	How and why programs repeat instructions
 
