@@ -2,7 +2,7 @@
 
 ## Projects
 
-- Project 1: Description
+- [VEX VR](vex-vr.md): Description
 
 - Project 2: Description
 
