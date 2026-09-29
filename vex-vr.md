@@ -35,15 +35,18 @@ I learned how to utilize movement and use the pen tool to draw and move in the p
 
 ### Goal
 
-Describe the goal of this lesson or challenge. What was your robot supposed to accomplish?
+The robot would navigate the wall maze from start to finish while also using bumper sensors to signal when to stop driving.
 
 ### My Solution
 
-Add a picture or screenshot showing your solution.
+<img width="263" height="794" alt="wallmazecode1" src="https://github.com/user-attachments/assets/130e1d3f-f7b0-406a-b31d-72a0e267d5e2" />
+<img width="274" height="801" alt="wallmazecode2" src="https://github.com/user-attachments/assets/e48d4dfa-eaf6-4da5-abc7-4cb688577a6f" />
+<img width="275" height="407" alt="wallmazecode3" src="https://github.com/user-attachments/assets/dcb938c6-7093-4cba-acfd-cc5e79e855ed" />
+<img width="800" height="509" alt="distanceresult" src="https://github.com/user-attachments/assets/a65af59c-0f6d-42e6-b844-fea85bb0e96f" />
 
 ### What I Learned
 
-Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
+I learned how to use Sensing blocks in sequences involving movement and how to properly use them to achieve my goal.
 
 
 
