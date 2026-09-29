@@ -18,16 +18,16 @@ I learned the initial ways of movement and rotation in order to accomplish my ov
 
 ### Goal
 
-Describe the goal of this lesson or challenge. What was your robot supposed to accomplish?
+To program the VR Robot to draw a house on the Art Canvas using the Pen block. Using a square for the house and triangle for the roof. A square garage added to the side
 
 ### My Solution
 
-Add a picture or screenshot showing your solution.
+<img width="1180" height="724" alt="Screenshot 2026-09-01 103900" src="https://github.com/user-attachments/assets/c8fd772a-9071-487b-b243-858c2e2567ee" />
+
 
 ### What I Learned
 
-Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
-
+I learned how to utilize movement and use the pen tool to draw and move in the pattern of shapes as well as learning to utilize the C-blocks such as the repeat block.
 
 
 
