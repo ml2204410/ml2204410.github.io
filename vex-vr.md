@@ -35,7 +35,7 @@ I learned how to utilize movement and use the pen tool to draw and move in the p
 
 ### Goal
 
-The robot would navigate the wall maze from start to finish while also using bumper sensors to signal when to stop driving.
+The robot would navigate the wall maze from start to finish while using bumper sensors to signal when to stop driving.
 
 ### My Solution
 
@@ -55,12 +55,14 @@ I learned how to use Sensing blocks in sequences involving movement and how to p
 
 ### Goal
 
-Describe the goal of this lesson or challenge. What was your robot supposed to accomplish?
+The robot would navigate the wall maze from start to finish while using distance sensors to signal when to stop driving depending on the distance away from a wall.
 
 ### My Solution
 
-Add a picture or screenshot showing your solution.
+<img width="232" height="780" alt="distance sensor code 1" src="https://github.com/user-attachments/assets/1e5465bf-a174-4b76-bd63-8a5e50769a71" />
+<img width="238" height="370" alt="distance sensor code 2" src="https://github.com/user-attachments/assets/be87a9db-c435-4c89-89ca-0bae7ebf7a68" />
+<img width="800" height="509" alt="distanceresult" src="https://github.com/user-attachments/assets/be8b76e6-fca3-44a2-a015-633137e2fa49" />
 
 ### What I Learned
 
-Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
+I learned how to use the distance sensor to send a message to the "stop driving" block depending on how far the distance is set.
